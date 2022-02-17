@@ -1,2 +1,2 @@
-#Github-introduction
+#Github
 This is an introduction to github
